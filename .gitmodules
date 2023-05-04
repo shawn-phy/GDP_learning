@@ -1,0 +1,3 @@
+[submodule "firestore-leaderboards-codelab"]
+	path = firestore-leaderboards-codelab
+	url = https://github.com/FirebaseExtended/firestore-leaderboards-codelab.git
